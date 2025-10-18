@@ -1,0 +1,1 @@
+from .delivery_person_entity import DeliveryPersonEntity
